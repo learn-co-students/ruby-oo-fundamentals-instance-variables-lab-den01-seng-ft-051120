@@ -11,6 +11,8 @@
 #lassie = Dog.new
 #lassie.name = "Lassie"
 
+#the above doesn't work because we needs to make the local variables as instance variables
+
 class Dog
  
     def name=(dogs_name)
